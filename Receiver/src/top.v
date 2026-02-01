@@ -1,3 +1,5 @@
+`define DEBUG
+
 module top (
 
 );
